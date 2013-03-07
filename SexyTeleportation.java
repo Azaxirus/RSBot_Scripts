@@ -1,5 +1,3 @@
-//package org.trepix.sexyscripts.sexyammsilver.startup;
-
 import org.powerbot.core.event.listeners.PaintListener;
 import org.powerbot.core.script.ActiveScript;
 import org.powerbot.core.script.job.Task;
